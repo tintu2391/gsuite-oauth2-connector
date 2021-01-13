@@ -16,4 +16,4 @@ Open Anypoint Studio, go to Help → Install New Software and select Anypoint Co
 
 # Reporting Issues
 
-We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link http://github.com/mulesoft/gsuite-oauth2/issues.
+We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link https://github.com/tintu2391/gsuite-oauth2-connector/issues.
